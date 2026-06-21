@@ -1,0 +1,18 @@
+CustomerID,Name,Age,Email,Phone,Gender,Country,PurchaseAmount,PurchaseDate,Category
+101,Alice Johnson,28,alice@gmail.com,9876543210,Female,India,1500.00,2024-01-15,Electronics
+102,bob smith,35,bobsmith@yahoo.com,,Male,india,200.5,2024/01/20,clothing
+103,CAROL WHITE,29,carol@gmail.com,9123456780,Female,USA,3200.00,2024-01-22,Electronics
+101,Alice Johnson,28,alice@gmail.com,9876543210,Female,India,1500.00,2024-01-15,Electronics
+104,david brown,,,9988776655,male,UK,450.75,2024-01-25,Clothing
+105,Eve Davis,22,eve.davis@gmail.com,9001122334,Female,India,875.00,2024/02/01,FOOD
+106,,45,mark@outlook.com,8800990011,Male,USA,1200.00,2024-02-05,Electronics
+107,Grace Lee,31,grace@gmail.com,7700880099,female,india,560.00,2024-02-10,Food
+108,Henry Clark,N/A,henry@gmail.com,6600770088,Male,UK,,2024-02-12,Clothing
+109,Isla Martin,27,isla@@gmail.com,5500660077,Female,India,990.00,2024-02-18,Electronics
+110,james wilson,33,james@gmail.com,4400550066,male,USA,300.00,2024/02/20,food
+102,bob smith,35,bobsmith@yahoo.com,,Male,india,200.5,2024/01/20,clothing
+111,Karen Hall,26,karen@gmail.com,3300440055,Female,India,1750.50,2024-03-01,Electronics
+112,Liam Scott,40,liam@gmail.com,2200330044,Male,UK,620.00,2024-03-05,CLOTHING
+113,Mia Adams,N/A,mia@gmail.com,1100220033,Female,USA,430.00,2024-03-08,Food
+114,noah baker,29,noah@gmail.com,,male,india,810.00,2024/03/10,Electronics
+115,Olivia Carter,34,olivia@gmail.com,9988001122,Female,India,2500.00,2024-03-15,food
