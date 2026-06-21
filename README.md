@@ -39,5 +39,4 @@ Outcome
 The raw dataset, originally containing duplicate rows, missing fields, and inconsistent formatting, was cleaned and validated. The final dataset is structurally consistent and ready for further analysis or visualization tasks.
 
 Reference
-
 Task video reference: VirtualWork Task 1
